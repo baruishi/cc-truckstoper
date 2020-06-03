@@ -1,0 +1,49 @@
+.singleStopContainer {
+  border-bottom: #ddb6c6 2px solid;
+  display: flex;
+  flex-direction: column;
+  background-color: #f1d4d4;
+}
+
+.leftAndRightContainer {
+  display: flex;
+}
+
+.leftContainer {
+  width: 50%;
+}
+
+.rightContainer {
+  width: 50%;
+}
+
+.exitAndHighway {
+  display: flex;
+}
+.exit {
+  color: #484c7f;
+  background-color: #f1d4d4;
+  font-family: "Wallpoet";
+  margin-right: 40%;
+  margin-left: 7%;
+  font-size: 1.5vw;
+}
+
+.highway {
+  color: #484c7f;
+  background-color: #f1d4d4;
+  font-family: "Wallpoet";
+  margin-right: 7%;
+  font-size: 1.5vw;
+}
+.address {
+  font-size: 2vw;
+  font-family: "Bowlby One SC";
+  color: #484c7f;
+}
+
+.components {
+  font-family: "Bowlby One SC";
+  color: #484c7f;
+  font-size: 1.5vw;
+}
